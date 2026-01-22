@@ -1,4 +1,4 @@
-The vcf with ancestral calls was subset to include chromosome 1, bp 6 million-8 million; chromsome 2, bp 6 million-8 million; and chromosome 6, bp 2 million-5 million. This subset had a total SNP count of 105480. This was filtered to exclude 
-all sites with missing data, which reduced the variant count to 101368 SNPs.
+The vcf with ancestral calls was subset to include chromosome 1, bp 6 million-8 million; chromsome 2, bp 6 million-8 million; and chromosome 6, bp 2 million-5 million. This subset had a total variant count of 105480. This was filtered to exclude 
+all sites with missing data, which reduced the variant count to 101368 sites. SNPs only reduced this to 97010 sites.
 
 No allelic depth filter has been used to this point.
