@@ -2,3 +2,5 @@ The vcf with ancestral calls was subset to include chromosome 1, bp 6 million-8 
 were pruned. Only SNPs were retained. This left 8779 sites. Only sites without missing data were included. This reduced to 7514 sites.
 
 No allelic depth filter has been used to this point.
+
+Current working file name is ABC_regions_nomissing_SNPOnly_newTags_onlyPolymorphic.vcf.gz
