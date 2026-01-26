@@ -1,6 +1,6 @@
 The vcf with ancestral calls was subset to include chromosome 1, bp 6.5 million-7.5 million; chromsome 2, bp 6.5 million-7.5 million; and chromosome 6, bp 2.5 million-3.5 million. Then bcftools +fill-tags recalculated all info tags. All sites with AC<1
-were pruned. Only SNPs were retained. This left 8779 sites. Only sites without missing data were included. This reduced to 7514 sites.
+were pruned. Only SNPs were retained. Only sites without missing data were included. This reduced to 2879 sites.
 
 No allelic depth filter has been used to this point.
 
-Current working file name is ABC_regions_nomissing_SNPOnly_newTags_onlyPolymorphic.vcf.gz
+Current working file name is ABC_regions_allFilters_3Mbp.vcf.gz
